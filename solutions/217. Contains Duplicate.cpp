@@ -3,7 +3,6 @@ public:
     bool containsDuplicate(vector<int>& nums) {
     
       // method 1: Using unordered_set
-        
       //   unordered_set<int>s;
       //   for(int i=0;i<nums.size();i++) {
       //       if(s.find(nums[i])!=s.end()) {
@@ -21,7 +20,7 @@ public:
                 s.insert(n);
             else 
                 return true;
-        }
+        }
         return false;
     }
 };
