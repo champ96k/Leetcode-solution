@@ -2,6 +2,7 @@
 
 | # | Title | Solution | Runtime |
 |---| ----- | -------- | ------- |
+|136|[ Single Number](https://leetcode.com/problems/single-number/)|[C++](./solutions/136.%20Single%20Number.cpp)|28 ms|
 |137|[ Single Number II](https://leetcode.com/problems/single-number-ii/)|[C++](./solutions/137.%20Single%20Number%20II.cpp)|8 ms|
 |191|[ Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)|[C++](./solutions/191.%20Number%20of%201%20Bits.cpp)|4 ms|
 |201|[ Bitwise AND of Numbers Range](https://leetcode.com/problems/bitwise-and-of-numbers-range/)|[C++](./solutions/201.%20Bitwise%20AND%20of%20Numbers%20Range.cpp)|8 ms|
